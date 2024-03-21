@@ -1,5 +1,3 @@
-# apz-pzpi-21-6-artur-tkachov
-
 ПЗПІ-21-6
 
 Ткачов Артур
